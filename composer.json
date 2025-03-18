@@ -1,0 +1,15 @@
+{
+    "name": "comp/example",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Comp\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "me"
+        }
+    ],
+    "require": {}
+}
