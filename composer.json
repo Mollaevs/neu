@@ -1,9 +1,9 @@
 {
-    "name": "newC/example",
+    "name": "compo/example",
     "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
-            "NewC\\Example\\": "src/"
+            "Compo\\Example\\": "src/"
         }
     },
     "authors": [
